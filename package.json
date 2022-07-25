@@ -1,0 +1,10 @@
+{
+    "name": "hugo_redirector_nodejs",
+    "version": "1.0.0",
+    "description": "Hugo Redirector to a Container App",
+    "author": "WarNov <warnov@gmail.com>",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    }
+  }
